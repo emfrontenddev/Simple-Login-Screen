@@ -65,9 +65,9 @@ header{
     color: #192dff;
 }
 #message{
+    position: relative;
     resize: none;
     width: 100%;
-    position: relative;
     background: #fff;
     margin-top: .2rem;
     padding: .1rem;
@@ -100,7 +100,6 @@ header{
     position: absolute;
     right: -10%;
     top: 18.5%;
-
     z-index: 1;
 }
 .image img{
